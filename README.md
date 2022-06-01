@@ -1,4 +1,4 @@
-### Hi there 👋  I'm a writer looking to help with/write some technical documentation to build my experience and portfolio.  I learn quickly and I'm not scared to ask questions, so if you need something written feel free to reach out!
+### Hi there 👋  I'm a writer looking to help with/write some technical documentation so I can build my experience and portfolio.  I learn quickly and I'm not scared to ask questions, so if you need something written feel free to reach out!
 
 <!--
 **thewonderfx/thewonderfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
